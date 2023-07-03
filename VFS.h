@@ -38,4 +38,4 @@ namespace TestTask {
         void Close(File* f) override;
     };
 
-}  // namespace TestTask
+} 
